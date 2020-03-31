@@ -1,0 +1,6 @@
+
+Gsquid:S1172")Remove this unused method parameter "id".(›˜¾Š8ÉÙµè.
+Dsquid:S1168"&Return an empty array instead of null.(¥¹ï8µ…¶è.
+Ÿsquid:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­²¾€8öÚ¤è.
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷‡òn8€ôªè.
