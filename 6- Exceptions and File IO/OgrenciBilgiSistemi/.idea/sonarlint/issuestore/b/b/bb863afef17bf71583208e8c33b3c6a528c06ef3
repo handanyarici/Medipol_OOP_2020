@@ -1,2 +1,6 @@
 
-Ysquid:S2094"BRemove this empty class, write its code or make it an "interface".(æ ‚Ö
+Gsquid:S1172")Remove this unused method parameter "id".(›˜¾Š8–Šç‹“.
+Dsquid:S1168"&Return an empty array instead of null.(¥¹ï8–Šç‹“.
+Ÿsquid:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­²¾€8–Šç‹“.
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷‡òn8–Šç‹“.

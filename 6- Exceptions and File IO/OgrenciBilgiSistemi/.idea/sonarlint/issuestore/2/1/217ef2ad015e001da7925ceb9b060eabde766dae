@@ -1,0 +1,8 @@
+
+8squid:S1643"Use a StringBuilder instead.(ñ˜¸¥ıÿÿÿÿ
+hsquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®Ùœÿÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(‡ÛŸÚıÿÿÿÿ
+lsquid:UselessImportCheck"CRemove this unused import 'javax.swing.plaf.synth.SynthTextAreaUI'.(üë®Ïüÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+csquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+:squid:S1148"#Use a logger to log this exception.(Ç’Çê
