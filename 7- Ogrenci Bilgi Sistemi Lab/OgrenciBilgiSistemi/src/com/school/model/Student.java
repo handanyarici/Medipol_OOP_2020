@@ -9,6 +9,11 @@ public class Student {
 	String schoolNumber;
 	SuccessStatus successStatus;
 
+	public Student(String name, String schoolNumber, SuccessStatus successStatus) {
+		this.name = name;
+		this.schoolNumber = schoolNumber;
+		this.successStatus = successStatus;
+	}
 
 	public String getName() {
 		return name;

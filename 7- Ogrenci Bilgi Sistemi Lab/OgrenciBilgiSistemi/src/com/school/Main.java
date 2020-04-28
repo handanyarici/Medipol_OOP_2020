@@ -50,12 +50,9 @@ public class Main {
 		Student[] students = new Student[studentStrings.length];
 		for (int i = 0; i < studentStrings.length; i++) {
 			String[] studentline = studentStrings[i].split(",");
-			Student student = new Student();
+			SuccessStatus successStatus = new SuccessStatus(Integer.parseInt(studentline[8]));
+			Student student = new Student(studentline[3],studentline[2],successStatus);
 			student.setId(Integer.parseInt(studentline[0]));
-			student.setSchoolNumber(studentline[2]);
-			student.setName(studentline[3]);
-			SuccessStatus successStatus = new SuccessStatus();
-			successStatus.setAbsence(Integer.parseInt(studentline[8]));
 			student.setSuccessStatus(successStatus);
 			students[i] = student;
 		}

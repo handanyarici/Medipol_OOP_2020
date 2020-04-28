@@ -8,6 +8,21 @@ public class SuccessStatus {
 	int visaNote;
 	int finalNote;
 
+	public SuccessStatus(int absence) {
+		this.absence = absence;
+	}
+
+	public SuccessStatus(int visaNote, int finalNote) {
+		this.visaNote = visaNote;
+		this.finalNote = finalNote;
+	}
+
+	public SuccessStatus(int absence, int visaNote, int finalNote) {
+		this.absence = absence;
+		this.visaNote = visaNote;
+		this.finalNote = finalNote;
+	}
+
 	public int getAbsence() {
 		return absence;
 	}
