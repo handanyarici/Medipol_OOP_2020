@@ -4,9 +4,9 @@ package com.school.model;
  * Created by TCHYARICI on 03/31/2020
  */
 public class SuccessStatus {
-	int absence;
-	int visaNote;
-	int finalNote;
+	private int absence;
+	private int visaNote;
+	private int finalNote;
 
 	public SuccessStatus(int absence) {
 		this.absence = absence;

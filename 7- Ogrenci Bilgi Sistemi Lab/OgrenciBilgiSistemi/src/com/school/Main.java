@@ -2,6 +2,7 @@ package com.school;
 
 import com.school.model.Course;
 import com.school.model.Department;
+import com.school.model.Instructor;
 import com.school.model.School;
 import com.school.model.Student;
 import com.school.model.SuccessStatus;
@@ -15,7 +16,7 @@ import java.io.IOException;
  */
 public class Main {
 	public static void main(String args[]) {
-		File inputFile = new File("D:\\medipol\\java oop\\w7\\OgrenciBilgiSistemi\\src\\com\\school\\ogrenciler.csv");
+		File inputFile = new File("src\\com\\school\\ogrenciler.csv");
 		String content = FileUtil.readFile(inputFile, true);
 		School school = new School();
 		Department department = new Department();
@@ -34,11 +35,11 @@ public class Main {
 		for(Student student:students){
 			if(student.getSuccessStatus().getAbsence()>12){
 				report.append(System.lineSeparator());
-				report.append(student.getSchoolNumber() + " " +student.getName());
+				report.append(student.toString());
 			}
 		}
 		String filename="rapor" + System.currentTimeMillis() + ".txt";
-		File outputFile = new File("D:\\medipol\\java oop\\w7\\OgrenciBilgiSistemi\\src\\com\\school\\"+ filename);
+		File outputFile = new File("src\\com\\school\\"+ filename);
 		try {
 			FileUtil.writeFile(outputFile, report.toString());
 		} catch (IOException e) {
@@ -48,6 +49,8 @@ public class Main {
 
 	private static Student[] createStudent(String[] studentStrings) {
 		Student[] students = new Student[studentStrings.length];
+		Instructor instructor = new Instructor();
+		instructor.setMebisUsername("handan");
 		for (int i = 0; i < studentStrings.length; i++) {
 			String[] studentline = studentStrings[i].split(",");
 			SuccessStatus successStatus = new SuccessStatus(Integer.parseInt(studentline[8]));
@@ -55,6 +58,7 @@ public class Main {
 			student.setId(Integer.parseInt(studentline[0]));
 			student.setSuccessStatus(successStatus);
 			students[i] = student;
+			student.setMebisUsername(student.getName());
 		}
 		return students;
 	}

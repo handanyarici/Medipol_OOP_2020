@@ -1,0 +1,5 @@
+Devamsizliktan kalan ogrenciler asagidaki gibidir. Devamsizlik siniri 12 olarak belirlenmistir
+Ogrenci{Isim ='TAYFUN ARSLAN', Ogrenci Numarasi ='HR160025'}
+Ogrenci{Isim ='�A?RI HAYDAR ?ENG�LER', Ogrenci Numarasi ='HR160035'}
+Ogrenci{Isim ='EMRE �EL?K', Ogrenci Numarasi ='HR180006'}
+Ogrenci{Isim ='ERD?N� AYDO?DU', Ogrenci Numarasi ='HR190033'}
