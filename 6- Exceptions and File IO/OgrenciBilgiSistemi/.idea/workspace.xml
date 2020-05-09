@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3eb5f35-ee0d-4acf-b8ce-8e9869b9a41b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/217ef2ad015e001da7925ceb9b060eabde766dae" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/217ef2ad015e001da7925ceb9b060eabde766dae" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/4498a1e0fdefcf161aaffdfd275dbb1e3cecf36a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/4498a1e0fdefcf161aaffdfd275dbb1e3cecf36a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c31e60e90fea3526f30469af2f4304545f514f7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c31e60e90fea3526f30469af2f4304545f514f7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb863afef17bf71583208e8c33b3c6a528c06ef3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb863afef17bf71583208e8c33b3c6a528c06ef3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +44,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/work/fit_round/gym" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../7- Ogrenci Bilgi Sistemi Lab/OgrenciBilgiSistemi" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -106,6 +110,10 @@
       <workItem from="1584998716835" duration="29000" />
       <workItem from="1585058857225" duration="8414000" />
       <workItem from="1585672996443" duration="3763000" />
+      <workItem from="1586269936289" duration="1216000" />
+      <workItem from="1587479554168" duration="2901000" />
+      <workItem from="1587722404898" duration="580000" />
+      <workItem from="1588083509116" duration="832000" />
     </task>
     <servers />
   </component>
@@ -117,7 +125,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

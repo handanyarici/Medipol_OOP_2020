@@ -8,21 +8,7 @@
       <change beforePath="$PROJECT_DIR$/../../6- Exceptions and File IO/OgrenciBilgiSistemi/.idea/sonarlint/issuestore/b/b/bb863afef17bf71583208e8c33b3c6a528c06ef3" beforeDir="false" afterPath="$PROJECT_DIR$/../../6- Exceptions and File IO/OgrenciBilgiSistemi/.idea/sonarlint/issuestore/b/b/bb863afef17bf71583208e8c33b3c6a528c06ef3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../6- Exceptions and File IO/OgrenciBilgiSistemi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6- Exceptions and File IO/OgrenciBilgiSistemi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/META-INF/OgrenciBilgiSistemi.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/model/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/model/Course.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/model/Instructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/model/Instructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/model/School.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/model/School.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/model/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/model/SuccessStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/model/SuccessStatus.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/school/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/school/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/school/model/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/school/model/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/school/model/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/school/model/Instructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/school/model/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/school/model/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/school/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/school/model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/school/model/SuccessStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/school/model/SuccessStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/school/rapor.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/school/rapor1585672193869.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +52,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="tasks.servers" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -126,7 +113,9 @@
       <workItem from="1584998716835" duration="29000" />
       <workItem from="1585058857225" duration="9640000" />
       <workItem from="1585662705776" duration="9314000" />
-      <workItem from="1588084969318" duration="4431000" />
+      <workItem from="1588084969318" duration="5654000" />
+      <workItem from="1588152653564" duration="599000" />
+      <workItem from="1588535035872" duration="3011000" />
     </task>
     <servers />
   </component>
@@ -138,7 +127,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -149,17 +140,17 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/school/Main.java</url>
-          <line>43</line>
+          <line>44</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/school/Main.java</url>
-          <line>62</line>
+          <line>63</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/school/Main.java</url>
-          <line>35</line>
+          <line>36</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>

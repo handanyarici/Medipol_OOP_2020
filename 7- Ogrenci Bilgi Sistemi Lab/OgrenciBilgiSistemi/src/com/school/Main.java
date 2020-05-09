@@ -15,6 +15,7 @@ import java.io.IOException;
  * Created by TCHYARICI on 03/24/2020
  */
 public class Main {
+	public static final int limit = 12;
 	public static void main(String args[]) {
 		File inputFile = new File("src\\com\\school\\ogrenciler.csv");
 		String content = FileUtil.readFile(inputFile, true);
@@ -33,7 +34,7 @@ public class Main {
 		StringBuilder report = new StringBuilder();
 		report.append("Devamsizliktan kalan ogrenciler asagidaki gibidir. Devamsizlik siniri 12 olarak belirlenmistir");
 		for(Student student:students){
-			if(student.getSuccessStatus().getAbsence()>12){
+			if(student.getSuccessStatus().getAbsence()>limit){
 				report.append(System.lineSeparator());
 				report.append(student.toString());
 			}
