@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3eb5f35-ee0d-4acf-b8ce-8e9869b9a41b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../6- Exceptions and File IO/OgrenciBilgiSistemi/.idea/sonarlint/issuestore/2/1/217ef2ad015e001da7925ceb9b060eabde766dae" beforeDir="false" afterPath="$PROJECT_DIR$/../../6- Exceptions and File IO/OgrenciBilgiSistemi/.idea/sonarlint/issuestore/2/1/217ef2ad015e001da7925ceb9b060eabde766dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../6- Exceptions and File IO/OgrenciBilgiSistemi/.idea/sonarlint/issuestore/4/4/4498a1e0fdefcf161aaffdfd275dbb1e3cecf36a" beforeDir="false" afterPath="$PROJECT_DIR$/../../6- Exceptions and File IO/OgrenciBilgiSistemi/.idea/sonarlint/issuestore/4/4/4498a1e0fdefcf161aaffdfd275dbb1e3cecf36a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../6- Exceptions and File IO/OgrenciBilgiSistemi/.idea/sonarlint/issuestore/5/c/5c31e60e90fea3526f30469af2f4304545f514f7" beforeDir="false" afterPath="$PROJECT_DIR$/../../6- Exceptions and File IO/OgrenciBilgiSistemi/.idea/sonarlint/issuestore/5/c/5c31e60e90fea3526f30469af2f4304545f514f7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../6- Exceptions and File IO/OgrenciBilgiSistemi/.idea/sonarlint/issuestore/b/b/bb863afef17bf71583208e8c33b3c6a528c06ef3" beforeDir="false" afterPath="$PROJECT_DIR$/../../6- Exceptions and File IO/OgrenciBilgiSistemi/.idea/sonarlint/issuestore/b/b/bb863afef17bf71583208e8c33b3c6a528c06ef3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../6- Exceptions and File IO/OgrenciBilgiSistemi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6- Exceptions and File IO/OgrenciBilgiSistemi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/school/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/school/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/school/rapor1588090833765.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +111,7 @@
       <workItem from="1585662705776" duration="9314000" />
       <workItem from="1588084969318" duration="5654000" />
       <workItem from="1588152653564" duration="599000" />
-      <workItem from="1588535035872" duration="3011000" />
+      <workItem from="1588535035872" duration="3254000" />
     </task>
     <servers />
   </component>
