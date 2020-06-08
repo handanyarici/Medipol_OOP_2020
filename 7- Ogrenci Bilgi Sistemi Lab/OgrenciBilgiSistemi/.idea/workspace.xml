@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f3eb5f35-ee0d-4acf-b8ce-8e9869b9a41b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OgrenciBilgiSistemi/com/school/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/school/rapor1588090833765.txt" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,18 +59,6 @@
       <recent name="com.school.model.Instructor" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.school.Main" />
@@ -111,7 +96,8 @@
       <workItem from="1585662705776" duration="9314000" />
       <workItem from="1588084969318" duration="5654000" />
       <workItem from="1588152653564" duration="599000" />
-      <workItem from="1588535035872" duration="3254000" />
+      <workItem from="1588535035872" duration="7311000" />
+      <workItem from="1589813498544" duration="593000" />
     </task>
     <servers />
   </component>

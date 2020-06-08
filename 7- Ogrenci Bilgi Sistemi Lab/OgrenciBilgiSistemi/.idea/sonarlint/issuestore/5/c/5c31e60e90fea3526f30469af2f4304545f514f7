@@ -1,5 +1,4 @@
 
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ë¾é]8Ìû’ì.
-[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÏÇŠì.
-_squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ûÉŠĞ8üİŸì.
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÏÇŠì.
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÕØÇƒ8×Ú“Â¢.
+Fsquid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8×Ú“Â¢.
